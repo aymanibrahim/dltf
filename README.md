@@ -22,7 +22,9 @@ The workshop will cover core topics:
 ## [01 Intro](https://github.com/aymanibrahim/dltf/blob/master/notebooks/01_Intro.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dltf/blob/master/notebooks/01_Intro.ipynb)
 
 
-![](./images/01_Intro/01_Intro.png)  
+Data Graph           |  Tensors | ReLu
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./images/01_Intro/01_Intro.png)  |  ![](./images/01_Intro/02_helloworld/arrays.png)|  ![](./images/01_Intro/02_helloworld/relu.png)
 
 - HelloWorld with TensorFlow
 - Linear and Logistic Regression with Tensorflow
