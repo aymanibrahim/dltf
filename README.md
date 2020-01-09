@@ -25,7 +25,7 @@ The workshop will cover core topics:
 ![](./images/01_Intro/01_Intro.png)  
 
 - HelloWorld with TensorFlow
-- Linear, Nonlinear and Logistic Regression with Tensorflow
+- Linear and Logistic Regression with Tensorflow
 - Activation Functions
 
 ## [02 Convolutional Neural Networks (CNN)](https://github.com/aymanibrahim/dltf/blob/master/notebooks/02_CNN.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dltf/blob/master/notebooks/02_CNN.ipynb)
@@ -189,4 +189,4 @@ Thanks for your interest in contributing! There are many ways to contribute to t
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">*Machine Learning with Python Workshop*</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aymanibrahim" property="cc:attributionName" rel="cc:attributionURL">Ayman Ibrahim</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.  Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://cognitiveclass.ai/courses/deep-learning-TensorFlow/" rel="dct:source">IBM Cognitive Class Deep Learning with TensorFlow Course </a> by <a href="https://www.linkedin.com/in/saeedaghabozorgi/"> Saeed Aghabozorgi, PhD </a> and <a href="https://www.linkedin.com/in/rafaelblsilvai/"> Rafael Belo da Silva</a>.
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">*Machine Learning with Python Workshop*</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aymanibrahim" property="cc:attributionName" rel="cc:attributionURL">Ayman Ibrahim</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.  Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://cognitiveclass.ai/courses/deep-learning-TensorFlow/" rel="dct:source">IBM Cognitive Class Deep Learning with TensorFlow Course </a> by <a href="https://www.linkedin.com/in/saeedaghabozorgi/"> Saeed Aghabozorgi, PhD </a>, <a href="https://www.linkedin.com/in/rafaelblsilvai/"> Rafael Belo da Silva</a>.and <a href="https://www.linkedin.com/in/walter-gomes/"> Walter Gomes de Amorim Junior</a>.
