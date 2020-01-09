@@ -1,0 +1,20 @@
+name: dltf
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - xlrd
+  - wordcloud
+  - folium
+  - scikit-learn
+  - pydotplus
+  - basemap
+  - nodejs
+  - tensorflow=1.14
+  - ipywidgets
+  - jupyterlab
+  - rise
