@@ -7,7 +7,7 @@ The workshop code is available as [Jupyter notebooks](https://github.com/aymanib
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aymanibrahim/dltf/master)
 
 # Why
-For people who struggle to start in deep learning with Python
+For people who struggle to start in deep learning with TensorFlow
 
 # Description
 ![](./images/01_Intro/dltf-1.png)
@@ -27,27 +27,30 @@ Data Graph           |  Tensors | ReLu
 ![](./images/01_Intro/01_Intro.png)  |  ![](./images/01_Intro/02_helloworld/arrays.png)|  ![](./images/01_Intro/02_helloworld/relu.png)
 
 - HelloWorld with TensorFlow
-- Linear and Logistic Regression with Tensorflow
+- Linear and Logistic Regression with TensorFlow
 - Activation Functions
 
 ## [02 Convolutional Neural Networks (CNN)](https://github.com/aymanibrahim/dltf/blob/master/notebooks/02_CNN.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dltf/blob/master/notebooks/02_CNN.ipynb)
 
-
-![](./images/02_CNN/02_CNN.png)
+Convolution           |  Training |  Architecture
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/02_CNN/convolution_operation.gif)  |  ![](images/02_CNN/feature_learning.png)|  ![](images/02_CNN/03_architecture/31_feature_learning_extraction_classification_layers.png)
 
 - Introduction to Convolutional Networks
 - Convolution and Feature Learning
-- Convolution with Python and Tensor Flow
-- The MNIST Database
-- Multilayer Perceptron with Tensor Flow
-- Convolutional Network with Tensor Flow
+- Convolution with Python and TensorFlow
+- MNIST Dataset
+- Multilayer Perceptron with TensorFlow
+- Convolutional Network with TensorFlow
 
 ## [03 Recurrent Neural Networks (RNN)](https://github.com/aymanibrahim/dltf/blob/master/notebooks/03_RNN.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dltf/blob/master/notebooks/03_RNN.ipynb)
 
 
-![](./images/03_RNN/03_RNN.png)
+Sequentaial Data           |  Recurrent Model |  LSTM
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/03_RNN/01_sequential/01_sequentaial_data.png)  |  ![](images/03_RNN/02_rnn/01_recurrent_model.png)|  ![](images/03_RNN/04_language/17_train_lstm_3.png)
 
-- The Recurrent Neural Network Model 
+- Recurrent Neural Network Model 
 - Long Short-Term Memory
 - Recursive Neural Tensor Network Theory
 - Applying Recurrent Networks to Language Modelling
@@ -55,16 +58,20 @@ Data Graph           |  Tensors | ReLu
 ## [04 Unsupervised Learning](https://github.com/aymanibrahim/dltf/blob/master/notebooks/04_RBM.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dltf/blob/master/notebooks/04_RBM.ipynb)
 
 
-![](./images/04_RBM/04_RBM.png) 
+Forward Pass           |  Backward Pass |  Quality Assessment
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/04_RBM/02_learning/04_forward_2.png)  |  ![](images/04_RBM/02_learning/06_backward_2.png)|  ![](images/04_RBM/02_learning/08_assess_2.png)
 
-- The Applications of Unsupervised Learning
+- Applications of Unsupervised Learning
 - Restricted Boltzmann Machine
 - Training a Restricted Boltzman Machine
 - Recommendation System with a Restrictive Boltzman Machine
 
 ## [05 Autoencoders](https://github.com/aymanibrahim/dltf/blob/master/notebooks/05_Autoencoders.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dltf/blob/master/notebooks/05_Autoencoders.ipynb)
 
-![](./images/05_Autoencoders/05_Autoencoders.png)
+Encode/Decode           |  Architecture |  Autoencoder vs RBM
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/05_Autoencoders/02_learning/02_autoencoder_2.png)  |  ![](images/05_Autoencoders/02_learning/05_architecture.png)|  ![](images/05_Autoencoders/02_learning/04_autoencoder_vs_rbm.png)
 
 - Introduction to Autoencoders and Applications
 - Autoencoder Structure
@@ -191,4 +198,4 @@ Thanks for your interest in contributing! There are many ways to contribute to t
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">*Machine Learning with Python Workshop*</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aymanibrahim" property="cc:attributionName" rel="cc:attributionURL">Ayman Ibrahim</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.  Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://cognitiveclass.ai/courses/deep-learning-TensorFlow/" rel="dct:source">IBM Cognitive Class Deep Learning with TensorFlow Course </a> by <a href="https://www.linkedin.com/in/saeedaghabozorgi/"> Saeed Aghabozorgi, PhD </a>, <a href="https://www.linkedin.com/in/rafaelblsilvai/"> Rafael Belo da Silva</a>.and <a href="https://www.linkedin.com/in/walter-gomes/"> Walter Gomes de Amorim Junior</a>.
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">*Machine Learning with Python Workshop*</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aymanibrahim" property="cc:attributionName" rel="cc:attributionURL">Ayman Ibrahim</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.  Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://cognitiveclass.ai/courses/deep-learning-TensorFlow/" rel="dct:source">IBM Cognitive Class Deep Learning with TensorFlow Course </a> by <a href="https://www.linkedin.com/in/saeedaghabozorgi/"> Saeed Aghabozorgi, PhD </a>, <a href="https://www.linkedin.com/in/rafaelblsilvai/"> Rafael Belo da Silva</a>, <a href="https://www.linkedin.com/in/erich-natsubori-sato"> Erich Natsubori Sato </a> and <a href="https://www.linkedin.com/in/walter-gomes/"> Walter Gomes de Amorim Junior</a>.
