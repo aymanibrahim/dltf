@@ -10,7 +10,7 @@ The workshop code is available as [Jupyter notebooks](https://github.com/aymanib
 For people who struggle to start in deep learning with TensorFlow
 
 # Description
-![](./images/01_Intro/dltf-1.png)
+![](./images/01_Intro/dltf-2.png)
 
 This hands-on in-person workshop is based on [Deep Learning with TensorFlow Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/deep-learning-TensorFlow)
 
