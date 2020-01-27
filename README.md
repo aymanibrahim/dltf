@@ -32,9 +32,10 @@ Data Graph           |  Tensors | ReLu
 
 ## [02 Convolutional Neural Networks (CNN)](https://github.com/aymanibrahim/dltf/blob/master/notebooks/02_CNN.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dltf/blob/master/notebooks/02_CNN.ipynb)
 
-Convolution           |  Training |  Architecture
-:-------------------------:|:-------------------------:|:-------------------------:
-![](images/02_CNN/convolution_operation.gif)  |  ![](images/02_CNN/feature_learning.png)|  ![](images/02_CNN/03_architecture/31_feature_learning_extraction_classification_layers.png)
+
+![](images/02_CNN/convolution_operation.gif)   
+![](images/02_CNN/feature_learning.png)
+![](images/02_CNN/03_architecture/31_feature_learning_extraction_classification_layers.png)
 
 - Introduction to Convolutional Networks
 - Convolution and Feature Learning
