@@ -160,7 +160,7 @@ conda deactivate
 ```
 
 # Workshop Instructor
-## Ayman Ibrahim, PMP
+## Ayman Ibrahim
 
 - [LinkedIn](https://www.linkedin.com/in/aymanibrahim/)
 - [Kaggle](https://www.kaggle.com/aymani)
