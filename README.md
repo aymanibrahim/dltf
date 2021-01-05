@@ -90,9 +90,9 @@ You will need a laptop that can access the internet
 ## 1: Installation
 Install miniconda or install the (larger) Anaconda distribution
 
-[Install Python 3.7 using Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
+[Install Python using Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
-OR [Install Python 3.7 using Ananconda](https://www.anaconda.com/distribution/)
+OR [Install Python using Ananconda](https://www.anaconda.com/distribution/)
 
 ## 2: Setup
 
@@ -109,7 +109,7 @@ Change current directory to **dltf** directory
 cd dltf
 ```
 ### 2.3: Install Python with required packages
-Install Python 3.7 with the required packages into an environment named _dltf_  as per [environment.yml](https://github.com/aymanibrahim/dltf/blob/master/environment.yml) YAML file.
+Install Python with the required packages into an environment named _dltf_  as per [environment.yml](https://github.com/aymanibrahim/dltf/blob/master/environment.yml) YAML file.
 ```
 conda env create -f environment.yml
 ```
