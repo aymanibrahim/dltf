@@ -1,11 +1,5 @@
 ![](./images/01_Intro/dltf-1.png)
 
-## Quick Start
-
-The workshop code is available as [Jupyter notebooks](https://github.com/aymanibrahim/dltf/tree/master/notebooks). You can run the notebooks in the cloud (no installation required) by clicking the "launch binder" button:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aymanibrahim/dltf/master)
-
 # Why
 For people who struggle to start in deep learning with TensorFlow
 
